@@ -1,0 +1,4 @@
+repository "EndlessRunnerGame@hs_14@cloud"
+  path "/"
+    br "/main"
+    co "/main"
